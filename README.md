@@ -1,4 +1,4 @@
-# FileSideload
+# FileSideload (Module for Omeka s)
 
 Ce module fournit des fonctionnalités pour les fichiers :  Integrer des fihiers qui sont déjà sur le serveur .
 Il permet aux utilisateurs d'ajouter par lots de nombreux fichiers simultanément dans leur referentiel, au lieu de telecharger un par un
