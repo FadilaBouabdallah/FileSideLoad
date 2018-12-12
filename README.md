@@ -32,6 +32,10 @@ PHP .</br>
 GITHUB .</br>
 Omeka s .</br>
 
+# Contact : 
+
+BOUABDALLAH FADILA bouabdallah166@gmail.com +33669582975 .</br>
+
 # remarque :
 Ce module est un module est inspiré d'un module omeka s existant </br>
 
