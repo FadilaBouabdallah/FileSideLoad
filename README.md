@@ -21,6 +21,11 @@ Lorsque vous modifiez un élément, accédez à l' onglet Média . La barre lat�
 
 ![alt text](https://github.com/FadilaBouabdallah/FileSideLoad/blob/master/11.png)
 
+En cliquant sur le bouton ajoute un bloc de support Sideload. Il y a deux champs:
+
+Titre : Attribuez un nouveau titre au fichier multimédia (facultatif).
+Fichier : sélectionnez un fichier dans ce menu déroulant. Le menu chargera les noms de fichiers tels qu’ils apparaissent dans le répertoire. Sélectionnez-en un dans la liste déroulante et enregistrez les modifications.
+
 # Outils et technologies : 
 
 PHP .</br>
