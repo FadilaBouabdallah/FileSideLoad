@@ -46,6 +46,6 @@ OpenSource </br>
 # remarque :
 Ce module est un module est inspiré d'un module omeka s existant </br>
 
-# Noter Bien :
+# Notez Bien :
 Tous les fichiers doivent être dans ce répertoire pour être accessibles; tout contenu dans un sous-répertoire ne sera pas enregistré avec le module.</br>
 Notez que lorsque vous parcourez ces fichiers depuis le module pour ajouter des supports, vous ne verrez que les noms de fichiers.
