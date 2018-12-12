@@ -1,4 +1,5 @@
 # FileSideload (Module for Omeka s)
+<hr>
 
 Ce module fournit des fonctionnalités pour les fichiers :  Integrer des fihiers qui sont déjà sur le serveur .
 
@@ -10,6 +11,7 @@ Cela permettra également aux utilisateurs de contourner les restrictions de tai
 
 
 # Outils et technologies
+<hr>
 
 PHP .</br>
 GITHUB .</br>
