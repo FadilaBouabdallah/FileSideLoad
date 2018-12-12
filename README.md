@@ -19,7 +19,7 @@ Avec File Sideload installé et configuré, ainsi que les fichiers du répertoir
 
 Lorsque vous modifiez un élément, accédez à l' onglet Média . La barre latérale Ajouter un nouveau support inclut désormais un bouton pour le chargement latéral (tout en bas).
 
-![alt text] (https://github.com/FadilaBouabdallah/FileSideLoad/blob/master/11.png)
+![alt text](https://github.com/FadilaBouabdallah/FileSideLoad/blob/master/11.png)
 
 # Outils et technologies : 
 
