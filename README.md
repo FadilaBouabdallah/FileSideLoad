@@ -11,6 +11,6 @@ Cela permettra également aux utilisateurs de contourner les restrictions de tai
 
 # Outils et technologies
 
-PHP .
-GITHUB .
-Omeka s .
+PHP .</br>
+GITHUB .</br>
+Omeka s .</br>
