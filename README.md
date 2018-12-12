@@ -17,4 +17,4 @@ GITHUB .</br>
 Omeka s .</br>
 
 # remarque :
-Ce module est un module 
+Ce module est un module est inspiré d'un module omeka s existant </br>
