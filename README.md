@@ -36,6 +36,9 @@ Omeka s .</br>
 
 BOUABDALLAH FADILA bouabdallah166@gmail.com +33669582975 .</br>
 
+# Copyright
+BOUABDALLAH FADILA 
+
 # remarque :
 Ce module est un module est inspiré d'un module omeka s existant </br>
 
