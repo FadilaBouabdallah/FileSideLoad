@@ -1,4 +1,4 @@
-# FileSideload (Module for Omeka s)
+# FileSideload (Module for Omeka s) :
 <hr>
 
 Ce module fournit des fonctionnalités pour les fichiers :  Integrer des fihiers qui sont déjà sur le serveur .
@@ -10,9 +10,11 @@ Ce module ajoute la possibilité d'ajouter des fichiers multimédias déjà stoc
 Cela permettra également aux utilisateurs de contourner les restrictions de taille de fichier du serveur qui limitent la capacité de téléchargement de formulaires Web.
 
 
-# Outils et technologies
-<hr>
+# Outils et technologies : 
 
 PHP .</br>
 GITHUB .</br>
 Omeka s .</br>
+
+# remarque :
+Ce module est un module 
